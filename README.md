@@ -1,5 +1,5 @@
 # Simple Deepl Chrome extension
 
-![Screenshot](/screenshot.jpg?raw=true "Screenshot")
+![Screenshot](/screenshot.png?raw=true "Screenshot")
 
 Extension [boilerplate](https://www.emailthis.me/open-source/extension-boilerplate).
