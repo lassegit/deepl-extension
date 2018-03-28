@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Deepl translation",
+    "description": "Artificial intelligence translation"
+  },
+  "appDescription": {
+    "message": "Deepl translation",
+    "description": "Artificial intelligence translation"
+  },
+  "btnTooltip": {
+    "message": "Ext Starter",
+    "description": "Tooltip for the button."
+  }
+}
